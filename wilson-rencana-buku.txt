@@ -2,5 +2,6 @@ RENCANA BUKU WILSON
 - Business Management/Finance
   * Zero to One
   * Art of War: Sun Tzu
+- Novel
 - Self-Improvement
 - Physcology
