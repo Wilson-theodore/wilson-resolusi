@@ -2,6 +2,8 @@ RENCANA BUKU WILSON
 - Business Management/Finance
   * Zero to One
   * Art of War: Sun Tzu
-- Novel
+    ^ Cara menang dalam peperangan
+    ^ S.W.O.T
 - Self-Improvement
+  ^ Personal Branding
 - Physcology
